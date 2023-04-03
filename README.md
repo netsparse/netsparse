@@ -1,4 +1,6 @@
-Network · Systems Engineer - in the making
+### Hi there 👋
+
+My name is Angel, an aspiring Network/Systems Engineer from Austin, TX, currently working on exploring the huge ecosystem that is network engineering, systems engineering, DevOps, and Software Development.
 
 <!--
 **netsparse/netsparse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
